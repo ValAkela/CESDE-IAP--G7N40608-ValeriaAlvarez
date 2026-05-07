@@ -1,3 +1,6 @@
+n-docente {
+ border: 3px dotted purple;
+}
 nav {
     border-radius: 30px;
     position: sticky;
@@ -50,6 +53,21 @@ nav li{
 
 }
 
+#titulo {
+    border-radius: 30px;
+    font-family: sans-serif;
+    font-style: italic;
+    background-color:rgb(221, 184, 184);
+    font-weight: bold;
+}
+
+#label {
+     border-radius: 30px;
+    font-family: sans-serif;
+    font-style: italic;
+    background-color:rgb(221, 184, 184);
+    font-weight: bold;
+}
 
 
  
